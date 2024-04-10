@@ -1,2 +1,2 @@
-# hello-world
+# hello
 for practising flow 
